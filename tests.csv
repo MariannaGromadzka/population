@@ -1,27 +1,28 @@
+"Country/Region","Data","Tests"
 Armenia,ARM,"Mar 18, 2020",813
 Australia,AUS,"Mar 20, 2020",113615
-Australia - Australian Capital Territory,,"Mar 20, 2020",2062
-Australia - New South Wales,,"Mar 19, 2020",39089
-Australia - Queensland,,"Mar 19, 2020",27000
-Australia - South Australia,,"Mar 20, 2020",16717
-Australia - Tasmania,,"Mar 19, 2020",807
-Australia - Victoria,,"Mar 19, 2020",19337
-Australia - Western Australia,,"Mar 19, 2020",8603
+Australia,Australian Capital Territory,,"Mar 20, 2020",2062
+Australia,New South Wales,,"Mar 19, 2020",39089
+Australia,Queensland,,"Mar 19, 2020",27000
+Australia,South Australia,,"Mar 20, 2020",16717
+Australia,Tasmania,,"Mar 19, 2020",807
+Australia,Victoria,,"Mar 19, 2020",19337
+Australia,Western Australia,,"Mar 19, 2020",8603
 Austria,AUT,"Mar 20, 2020",15613
 Bahrain,BHR,"Mar 20, 2020",18645
 Belarus,BLR,"Mar 16, 2020",16000
 Belgium,BEL,"Mar 18, 2020",18360
 Brazil,BRA,"Mar 13, 2020",2927
-Canada - Alberta,,"Mar 19, 2020",17013
-Canada - British Columbia,,"Mar 13, 2020",6326
-Canada - National lab,,"Mar 19, 2020",54956
-Canada - New Brunswick,,"Mar 20, 2020",520
-Canada - Northwest Territories,,"Mar 19, 2020",222
-Canada - Nova Scotia,,"Mar 20, 2020",1561
-Canada - Ontario,,"Mar 20, 2020",19511
-Canada - Quebec,,"Mar 19, 2020",10451
-Canada - Saskatchewan,,"Mar 19, 2020",2561
-China - Guangdong,,"Feb 24, 2020",320000
+Canada,Alberta,,"Mar 19, 2020",17013
+Canada,British Columbia,,"Mar 13, 2020",6326
+Canada,National lab,,"Mar 19, 2020",54956
+Canada,New Brunswick,,"Mar 20, 2020",520
+Canada,Northwest Territories,,"Mar 19, 2020",222
+Canada,Nova Scotia,,"Mar 20, 2020",1561
+Canada,Ontario,,"Mar 20, 2020",19511
+Canada,Quebec,,"Mar 19, 2020",10451
+Canada,Saskatchewan,,"Mar 19, 2020",2561
+China,Guangdong,,"Feb 24, 2020",320000
 Colombia,COL,"Mar 20, 2020",4103
 Costa Rica,CRI,"Mar 19, 2020",1039
 Croatia,HRV,"Mar 19, 2020",1264
@@ -73,5 +74,4 @@ Ukraine,UKR,"Mar 20, 2020",316
 United Arab Emirates,ARE,"Mar 16, 2020",125000
 United Kingdom,GBR,"Mar 19, 2020",64621
 United States,USA,"Mar 19, 2020",103945
-United States - CDC samples tested,,"Mar 14, 2020",37646
 Vietnam,VNM,"Mar 20, 2020",15637
